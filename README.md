@@ -5,7 +5,7 @@ go to BackslashGames.github.io to download the required file(s)
 currently you need to build your file in sketchup between 1000 and 9999 on all axis. this should be fixed in a later version
 you shouldnt bother texturing any of the surfaces in sketchup. faces are interperated as crosses from corner points.
 # Instructions
-[note: there is an easier to understand version in the downloaded file]
+[note: there is an easier to understand version on the website as well as a link to HyperFlux (probably)]
 1. export an .obj from Google Sketchup using TIG's OBJExporter (found on Sketchup's plugin website)
 2. open the .obj in a text editor and copy the all of the section with lines starting with "v" into a file called input.txt
 3. open input.txt and use the "replace" function (in most text editors) to replace all "v"'s with empty space
