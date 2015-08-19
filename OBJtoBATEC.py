@@ -1,3 +1,16 @@
+#ObjToBatec for HyperFlux by ImFromTheOtherOS (or OtherOS)
+#Hello, World!
+#_#
+
+#-----------#
+#Changelog- ver:1.0b
+#initial release, converts "v:" part of .obj text to BATEC.
+#-----------#
+
+# opens some files, the input, lengthID and a new output file.
+file = (open("input.txt","r"))
+out = (open("output.txt","w+"))
+lengthid = (open("LengthID.txt","w+"))
 # makes variables
 cv = "place holder"
 end = ""
